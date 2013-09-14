@@ -1,0 +1,17 @@
+This is an Arduino library to generate TOTP codes based on the OpenAuthentication Time-based One-time Password Algorithm (RFC 6238)
+
+
+Description & usage:
+
+http://www.lucadentella.it/totp-libreria-per-arduino/
+
+A simple project:
+
+http://www.lucadentella.it/2013/09/14/serratura-otp/
+
+
+Thanks to:
+
+Jose Damico, https://github.com/damico/ARDUINO-OATH-TOKEN
+Peter Knight, https://github.com/Cathedrow/Cryptosuite
+Maniacbug, https://github.com/maniacbug/Cryptosuite
